@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wjlew.is/symbol-picker/static/css/main.dab1e223.chunk.css",
-    "main.js": "/wjlew.is/symbol-picker/static/js/main.e4b0efd9.chunk.js",
-    "main.js.map": "/wjlew.is/symbol-picker/static/js/main.e4b0efd9.chunk.js.map",
-    "runtime-main.js": "/wjlew.is/symbol-picker/static/js/runtime-main.ae78c74e.js",
-    "runtime-main.js.map": "/wjlew.is/symbol-picker/static/js/runtime-main.ae78c74e.js.map",
-    "static/js/2.163957ae.chunk.js": "/wjlew.is/symbol-picker/static/js/2.163957ae.chunk.js",
-    "static/js/2.163957ae.chunk.js.map": "/wjlew.is/symbol-picker/static/js/2.163957ae.chunk.js.map",
-    "index.html": "/wjlew.is/symbol-picker/index.html",
-    "precache-manifest.15035dcf09a2b323e2d8c8cbaa6876c6.js": "/wjlew.is/symbol-picker/precache-manifest.15035dcf09a2b323e2d8c8cbaa6876c6.js",
-    "service-worker.js": "/wjlew.is/symbol-picker/service-worker.js",
-    "static/css/main.dab1e223.chunk.css.map": "/wjlew.is/symbol-picker/static/css/main.dab1e223.chunk.css.map",
-    "static/js/2.163957ae.chunk.js.LICENSE.txt": "/wjlew.is/symbol-picker/static/js/2.163957ae.chunk.js.LICENSE.txt"
+    "main.css": "/symbol-picker/static/css/main.dab1e223.chunk.css",
+    "main.js": "/symbol-picker/static/js/main.e4b0efd9.chunk.js",
+    "main.js.map": "/symbol-picker/static/js/main.e4b0efd9.chunk.js.map",
+    "runtime-main.js": "/symbol-picker/static/js/runtime-main.59763bc5.js",
+    "runtime-main.js.map": "/symbol-picker/static/js/runtime-main.59763bc5.js.map",
+    "static/js/2.163957ae.chunk.js": "/symbol-picker/static/js/2.163957ae.chunk.js",
+    "static/js/2.163957ae.chunk.js.map": "/symbol-picker/static/js/2.163957ae.chunk.js.map",
+    "index.html": "/symbol-picker/index.html",
+    "precache-manifest.0422fa93b3e2a5b0299d251facf2f840.js": "/symbol-picker/precache-manifest.0422fa93b3e2a5b0299d251facf2f840.js",
+    "service-worker.js": "/symbol-picker/service-worker.js",
+    "static/css/main.dab1e223.chunk.css.map": "/symbol-picker/static/css/main.dab1e223.chunk.css.map",
+    "static/js/2.163957ae.chunk.js.LICENSE.txt": "/symbol-picker/static/js/2.163957ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae78c74e.js",
+    "static/js/runtime-main.59763bc5.js",
     "static/js/2.163957ae.chunk.js",
     "static/css/main.dab1e223.chunk.css",
     "static/js/main.e4b0efd9.chunk.js"
