@@ -1,0 +1,47 @@
+.segment {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-top: 1px solid var(--secondary-lt);
+  text-align: center;
+}
+
+.segment__title {
+  display: inline-block;
+  margin: 0;
+  padding: 0 5px;
+
+  font-size: 16px;
+  color: var(--secondary-lt);
+  background-color: var(--offset);
+  transform: translateY(-14px);
+  font-family: var(--header-font);
+}
+
+.segment__glyph-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.segment__glyph {
+  width: 180px;
+  height: 80px;
+  margin: 15px;
+
+  font-size: 25px;
+  color: var(--secondary);
+  background-color: transparent;
+  outline: none;
+  border: none;
+  border-bottom: 5px solid var(--offset);
+  border-radius: 8px;
+  cursor: pointer;
+
+  transition: background-color 0.2s ease, color 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.segment__glyph:hover {
+  background-color: var(--primary);
+  color: var(--offset);
+  border-color: var(--primary-dk);
+}
