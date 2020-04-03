@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/symbol-picker/static/css/main.abcef11c.chunk.css",
-    "main.js": "/symbol-picker/static/js/main.31a258ac.chunk.js",
-    "main.js.map": "/symbol-picker/static/js/main.31a258ac.chunk.js.map",
-    "runtime-main.js": "/symbol-picker/static/js/runtime-main.59763bc5.js",
-    "runtime-main.js.map": "/symbol-picker/static/js/runtime-main.59763bc5.js.map",
-    "static/js/2.163957ae.chunk.js": "/symbol-picker/static/js/2.163957ae.chunk.js",
-    "static/js/2.163957ae.chunk.js.map": "/symbol-picker/static/js/2.163957ae.chunk.js.map",
-    "index.html": "/symbol-picker/index.html",
-    "precache-manifest.3e4d26f0a2ecbfa3486ce1f0eae15eec.js": "/symbol-picker/precache-manifest.3e4d26f0a2ecbfa3486ce1f0eae15eec.js",
-    "service-worker.js": "/symbol-picker/service-worker.js",
-    "static/css/main.abcef11c.chunk.css.map": "/symbol-picker/static/css/main.abcef11c.chunk.css.map",
-    "static/js/2.163957ae.chunk.js.LICENSE.txt": "/symbol-picker/static/js/2.163957ae.chunk.js.LICENSE.txt"
+    "main.css": "/~tlewis/stat-symbols/static/css/main.abcef11c.chunk.css",
+    "main.js": "/~tlewis/stat-symbols/static/js/main.31a258ac.chunk.js",
+    "main.js.map": "/~tlewis/stat-symbols/static/js/main.31a258ac.chunk.js.map",
+    "runtime-main.js": "/~tlewis/stat-symbols/static/js/runtime-main.aa5018d3.js",
+    "runtime-main.js.map": "/~tlewis/stat-symbols/static/js/runtime-main.aa5018d3.js.map",
+    "static/js/2.163957ae.chunk.js": "/~tlewis/stat-symbols/static/js/2.163957ae.chunk.js",
+    "static/js/2.163957ae.chunk.js.map": "/~tlewis/stat-symbols/static/js/2.163957ae.chunk.js.map",
+    "index.html": "/~tlewis/stat-symbols/index.html",
+    "precache-manifest.e20a0e69a27c31050148d925d3e5272d.js": "/~tlewis/stat-symbols/precache-manifest.e20a0e69a27c31050148d925d3e5272d.js",
+    "service-worker.js": "/~tlewis/stat-symbols/service-worker.js",
+    "static/css/main.abcef11c.chunk.css.map": "/~tlewis/stat-symbols/static/css/main.abcef11c.chunk.css.map",
+    "static/js/2.163957ae.chunk.js.LICENSE.txt": "/~tlewis/stat-symbols/static/js/2.163957ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.59763bc5.js",
+    "static/js/runtime-main.aa5018d3.js",
     "static/js/2.163957ae.chunk.js",
     "static/css/main.abcef11c.chunk.css",
     "static/js/main.31a258ac.chunk.js"
