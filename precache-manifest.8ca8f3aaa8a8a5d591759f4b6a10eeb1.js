@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61859bd01bf88ea5f2ffba1bf5c6c945",
+    "revision": "ccae3a4d449bf1ef97bd8b6ad11459af",
     "url": "/~tlewis/stat-symbols/index.html"
   },
   {
-    "revision": "533b035b52aa24af77fd",
+    "revision": "0c477edeb1306da5c684",
     "url": "/~tlewis/stat-symbols/static/css/main.abcef11c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/~tlewis/stat-symbols/static/js/2.163957ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "533b035b52aa24af77fd",
-    "url": "/~tlewis/stat-symbols/static/js/main.31a258ac.chunk.js"
+    "revision": "0c477edeb1306da5c684",
+    "url": "/~tlewis/stat-symbols/static/js/main.8f3196df.chunk.js"
   },
   {
     "revision": "ae5276c6d3c6aa32e76b",
