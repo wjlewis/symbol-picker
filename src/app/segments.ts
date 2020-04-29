@@ -24,6 +24,10 @@ export default [
       '&#x1d465;&#x305;&#x2082;',
     ],
   },
+  {
+    title: 'correlations',
+    glyphs: ['&#x3c1;', '&#119903;'],
+  },
   { title: 'hypotheses', glyphs: ['&#119867;&#x2080;', '&#119867;&#x2090;'] },
   { title: 'relations', glyphs: ['&#60;', '&#62;', '&#61;', '&#x2260;'] },
 ];
