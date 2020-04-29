@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/~tlewis/stat-symbols/static/css/main.abcef11c.chunk.css",
-    "main.js": "/~tlewis/stat-symbols/static/js/main.8f3196df.chunk.js",
-    "main.js.map": "/~tlewis/stat-symbols/static/js/main.8f3196df.chunk.js.map",
+    "main.css": "/~tlewis/stat-symbols/static/css/main.4139055d.chunk.css",
+    "main.js": "/~tlewis/stat-symbols/static/js/main.bc391915.chunk.js",
+    "main.js.map": "/~tlewis/stat-symbols/static/js/main.bc391915.chunk.js.map",
     "runtime-main.js": "/~tlewis/stat-symbols/static/js/runtime-main.aa5018d3.js",
     "runtime-main.js.map": "/~tlewis/stat-symbols/static/js/runtime-main.aa5018d3.js.map",
     "static/js/2.163957ae.chunk.js": "/~tlewis/stat-symbols/static/js/2.163957ae.chunk.js",
     "static/js/2.163957ae.chunk.js.map": "/~tlewis/stat-symbols/static/js/2.163957ae.chunk.js.map",
     "index.html": "/~tlewis/stat-symbols/index.html",
-    "precache-manifest.8ca8f3aaa8a8a5d591759f4b6a10eeb1.js": "/~tlewis/stat-symbols/precache-manifest.8ca8f3aaa8a8a5d591759f4b6a10eeb1.js",
+    "precache-manifest.5d7aaad78e4cb0974e0f597ad0cd85a3.js": "/~tlewis/stat-symbols/precache-manifest.5d7aaad78e4cb0974e0f597ad0cd85a3.js",
     "service-worker.js": "/~tlewis/stat-symbols/service-worker.js",
-    "static/css/main.abcef11c.chunk.css.map": "/~tlewis/stat-symbols/static/css/main.abcef11c.chunk.css.map",
+    "static/css/main.4139055d.chunk.css.map": "/~tlewis/stat-symbols/static/css/main.4139055d.chunk.css.map",
     "static/js/2.163957ae.chunk.js.LICENSE.txt": "/~tlewis/stat-symbols/static/js/2.163957ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aa5018d3.js",
     "static/js/2.163957ae.chunk.js",
-    "static/css/main.abcef11c.chunk.css",
-    "static/js/main.8f3196df.chunk.js"
+    "static/css/main.4139055d.chunk.css",
+    "static/js/main.bc391915.chunk.js"
   ]
 }
